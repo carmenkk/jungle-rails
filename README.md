@@ -26,8 +26,35 @@ Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
+## Admin password
+Admin username: "Jungle"
+Admin password: "book"
+
 ## Dependencies
 
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## ScreenShots
+
+Sold out badge
+
+<img width="1440" alt="Screen Shot 2022-04-13 at 9 24 45 PM" src="https://user-images.githubusercontent.com/97773707/163296071-1d44a881-a70d-41c6-8261-bf2aa244cf53.png">
+
+
+Admin product pages
+
+<img width="1440" alt="Screen Shot 2022-04-13 at 9 26 56 PM" src="https://user-images.githubusercontent.com/97773707/163296158-45343b0d-5dfd-49ab-b313-2edfc59fb52d.png">
+
+
+Admin add categories
+
+<img width="1440" alt="Screen Shot 2022-04-13 at 9 27 21 PM" src="https://user-images.githubusercontent.com/97773707/163296177-d6963298-b2f0-407a-98c5-ec9935627408.png">
+
+
+Shopping cart
+
+<img width="1440" alt="Screen Shot 2022-04-13 at 9 25 30 PM" src="https://user-images.githubusercontent.com/97773707/163296218-42c96bce-2b7e-4fc5-95b5-76ba26a9dfb9.png">
+
+
